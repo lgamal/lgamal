@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abdallah Elgamal
 
-## 🚀 Lead Software Engineer | Full-Stack Developer | Cloud Enthusiast
+## 🚀 Lead Software Engineer | Front-End Developer | Cloud Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate Lead Software Engineer with a strong track record of developing innovative software solutions and leading cross-functional teams. Based in Cairo, Egypt, I specialize in building scalable applications and optimizing development processes.
 
