@@ -11,7 +11,7 @@
 
 ### About
 
-Lead Software Engineer with 6+ years designing and delivering production-grade enterprise systems in regulated financial services (insurance). Based in Cairo, Egypt.
+Lead Software Engineer with 7+ years designing and delivering production-grade enterprise systems in regulated financial services (insurance). Based in Cairo, Egypt.
 
 My career has been built entirely at **Chubb Life Insurance** — growing from building automation tools and iOS apps to architecting a **nationwide Agency Digital Application Platform** and multiple FRA-compliant regulatory systems. I work across the full stack: web, mobile, backend, cloud, and databases.
 
